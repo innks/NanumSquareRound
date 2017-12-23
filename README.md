@@ -6,12 +6,10 @@
 http://hangeul.naver.com/2017/nanum
 
 ## font-weigh
----
 Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 
 
 ## 사용방법
----
 link 방식 (권장)
 
 ```bash
