@@ -10,7 +10,7 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 
 
 ## 사용방법
-link 방식 (권장)
+link 방식
 
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css">
@@ -22,5 +22,5 @@ import 방식
 @import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css');
 ```
 
-사용방법
+### 사용방법
 나눔스퀘어라운드 웹폰트입니다. [Demo](https://htmlpreview.github.io/?https://github.com/innks/NanumSquareRound/blob/master/index.html)
