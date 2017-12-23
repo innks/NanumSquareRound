@@ -25,6 +25,6 @@ import 방식
 ### 사용방법
 나눔스퀘어라운드 웹폰트입니다. [Demo](https://htmlpreview.github.io/?https://github.com/innks/NanumSquareRound/blob/master/index.html)
 
-```html
+```css
 font-family: 'NanumSquareRound',sans-serif;
 ```
