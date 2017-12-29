@@ -2,6 +2,17 @@
 @font-face {
   font-family: "NanumSquareRound";
   font-style: normal;
+  font-weight: 300;
+  src: local("NanumSquareRoundL"), /* computer */
+    url("NanumSquareRoundL.eot"), /* IE9 Compat Modes */
+    url("NanumSquareRoundL.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("NanumSquareRoundL.woff2") format("woff2"), /* Modern Browsers */
+    url("NanumSquareRoundL.woff") format("woff"), /* Modern Browsers */
+    url("NanumSquareRoundL.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+@font-face {
+  font-family: "NanumSquareRound";
+  font-style: normal;
   font-weight: 400;
   src: local("NanumSquareRoundR"), /* computer */
     url("NanumSquareRoundR.eot"), /* IE9 Compat Modes */
@@ -32,15 +43,3 @@
     url("NanumSquareRoundEB.woff") format("woff"), /* Modern Browsers */
     url("NanumSquareRoundEB.ttf") format("truetype"); /* Safari, Android, iOS */
 }
-@font-face {
-  font-family: "NanumSquareRound";
-  font-style: normal;
-  font-weight: 300;
-  src: local("NanumSquareRoundL"), /* computer */
-    url("NanumSquareRoundL.eot"), /* IE9 Compat Modes */
-    url("NanumSquareRoundL.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("NanumSquareRoundL.woff2") format("woff2"), /* Modern Browsers */
-    url("NanumSquareRoundL.woff") format("woff"), /* Modern Browsers */
-    url("NanumSquareRoundL.ttf") format("truetype"); /* Safari, Android, iOS */
-}
-
