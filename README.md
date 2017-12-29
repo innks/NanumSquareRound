@@ -30,3 +30,5 @@ import 방식
 ```css
 font-family: 'NanumSquareRound',sans-serif;
 ```
+
+https://innks.github.io/2017/12/23/IT/NanumSquareRound-Web-Fonts/
