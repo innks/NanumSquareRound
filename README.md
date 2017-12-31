@@ -16,14 +16,20 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 link 방식
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css">
 ```
 
 import 방식
 
 ```css
-@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css');
+@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
 ```
+
+#### # 일반
+https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css
+
+#### # 최소 버전
+https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css
 
 ### css 적용방법
 
