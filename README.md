@@ -8,7 +8,7 @@ http://hangeul.naver.com/2017/nanum
 
 나눔스퀘어라운드 웹폰트입니다. [Demo](https://htmlpreview.github.io/?https://github.com/innks/NanumSquareRound/blob/master/index.html)
 
-## font-weigh
+## font-weight
 Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 
 ## 사용방법
@@ -16,20 +16,20 @@ Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
 link 방식
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.min.css">
 ```
 
 import 방식
 
 ```css
-@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
+@import url('https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.min.css');
 ```
 
 #### # 일반
-https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css
+https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.css
 
 #### # 최소 버전
-https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css
+https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.min.css
 
 ### css 적용방법
 
