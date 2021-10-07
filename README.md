@@ -26,10 +26,10 @@ import 방식
 ```
 
 #### # 일반
-https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css
+https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.css
 
 #### # 최소 버전
-https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css
+https://cdn.jsdelivr.net/gh/innks/NanumSquareRound@master/nanumsquareround.min.css
 
 ### css 적용방법
 
